@@ -1,0 +1,2 @@
+_id,image_path,traffic_level,confidence,probability,timestamp,metadata
+69c5516c08cef645b4f4e1d6,data/heavy/heavy2,HEAVY TRAFFIC,0.9999765157699585,0.9999765157699585,2026-03-26T21:01:56.154000,{'source': 'analysis_mode'}

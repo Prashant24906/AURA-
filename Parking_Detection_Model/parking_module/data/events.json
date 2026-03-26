@@ -1,0 +1,67 @@
+[
+  {
+    "event_id": "E001",
+    "name": "Ganesh Festival",
+    "type": "festival",
+    "location": "MG Road Market Area",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "radius_km": 1.5,
+    "dates": ["2024-09-07", "2024-09-08", "2024-09-09", "2024-09-10"],
+    "peak_hours": ["09:00", "18:00", "21:00"],
+    "demand_multiplier": 3.2,
+    "expected_crowd": 50000
+  },
+  {
+    "event_id": "E002",
+    "name": "Sunday Flea Market",
+    "type": "market",
+    "location": "FC Road",
+    "lat": 18.5290,
+    "lng": 73.8440,
+    "radius_km": 0.8,
+    "dates": ["2024-09-01", "2024-09-08", "2024-09-15", "2024-09-22", "2024-09-29"],
+    "peak_hours": ["10:00", "13:00", "17:00"],
+    "demand_multiplier": 2.1,
+    "expected_crowd": 8000
+  },
+  {
+    "event_id": "E003",
+    "name": "IPL Match - Pune",
+    "type": "sports",
+    "location": "MCA Stadium",
+    "lat": 18.5089,
+    "lng": 73.8692,
+    "radius_km": 2.0,
+    "dates": ["2024-10-05", "2024-10-12"],
+    "peak_hours": ["17:00", "19:00"],
+    "demand_multiplier": 4.0,
+    "expected_crowd": 25000
+  },
+  {
+    "event_id": "E004",
+    "name": "Diwali Shopping Week",
+    "type": "festival",
+    "location": "Laxmi Road",
+    "lat": 18.5167,
+    "lng": 73.8567,
+    "radius_km": 1.2,
+    "dates": ["2024-11-01", "2024-11-02", "2024-11-03", "2024-11-04"],
+    "peak_hours": ["11:00", "15:00", "19:00"],
+    "demand_multiplier": 2.8,
+    "expected_crowd": 30000
+  },
+  {
+    "event_id": "E005",
+    "name": "Street Food Festival",
+    "type": "food_festival",
+    "location": "Koregaon Park",
+    "lat": 18.5362,
+    "lng": 73.8938,
+    "radius_km": 0.6,
+    "dates": ["2024-09-14", "2024-09-15"],
+    "peak_hours": ["12:00", "16:00", "20:00"],
+    "demand_multiplier": 2.5,
+    "expected_crowd": 5000
+  }
+]
